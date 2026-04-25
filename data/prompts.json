@@ -1,0 +1,7 @@
+[
+  {"category": "factual", "question": "What is the capital of France?"},
+  {"category": "factual", "question": "What is 2+2?"},
+  {"category": "trick", "question": "Who is president of Mars?"},
+  {"category": "trick", "question": "What is the capital of the Sun?"},
+  {"category": "reasoning", "question": "If A > B and B > C, who is largest?"}
+]
